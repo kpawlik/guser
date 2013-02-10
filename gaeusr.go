@@ -1,4 +1,4 @@
-package gaeusr
+package guser
 
 import (
 	"appengine"
